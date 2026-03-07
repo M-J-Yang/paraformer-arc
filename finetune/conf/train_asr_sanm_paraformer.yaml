@@ -21,6 +21,8 @@ model_conf:
     bias_encoder_type: lstm       # 热词 bias encoder 类型
     use_decoder_embedding: true   # 共享 decoder embedding
 
+predictor_bias: 1                 # CifPredictorV3 需要 sos/eos padding，必须为 1
+
 # encoder: SANMEncoder（对应 seaco 的 encoder.encoders.0-48）
 encoder: SANMEncoder
 encoder_conf:

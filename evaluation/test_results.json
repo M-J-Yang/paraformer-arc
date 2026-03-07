@@ -1,0 +1,832 @@
+[
+  {
+    "audio_file": "ch03_01_249.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "十四万八明白。",
+    "final_text": "十 4 万 8 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.6666666666666666,
+    "chars": 6,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_036.wav",
+    "ground_truth": "40184转弯",
+    "raw_text": "自动二幺八四转弯。",
+    "final_text": "自动 2184 转弯。",
+    "raw_cer": 1.0,
+    "final_cer": 0.5714285714285714,
+    "chars": 7,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_243.wav",
+    "ground_truth": "起落架放好请求着陆",
+    "raw_text": "起落架放好，请求着陆。",
+    "final_text": "起落架放好，请求着陆。",
+    "raw_cer": 0.2222222222222222,
+    "final_cer": 0.2222222222222222,
+    "chars": 9,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_520.wav",
+    "ground_truth": "应答机3107场压3107",
+    "raw_text": "应答机三幺洞管厂压三幺管。",
+    "final_text": "应答机 310 管厂压 31 管。",
+    "raw_cer": 0.6923076923076923,
+    "final_cer": 0.3076923076923077,
+    "chars": 13,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_334.wav",
+    "ground_truth": "301可以着陆地面静风",
+    "raw_text": "山洞幺可以着陆地面进风。",
+    "final_text": "山 01 可以着陆地面进风。",
+    "raw_cer": 0.45454545454545453,
+    "final_cer": 0.2727272727272727,
+    "chars": 11,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_653.wav",
+    "ground_truth": "如收到的话",
+    "raw_text": "如果收到的话。",
+    "final_text": "如果收到的话。",
+    "raw_cer": 0.4,
+    "final_cer": 0.4,
+    "chars": 5,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_658.wav",
+    "ground_truth": "立即着陆",
+    "raw_text": "立即着陆。",
+    "final_text": "立即着陆。",
+    "raw_cer": 0.25,
+    "final_cer": 0.25,
+    "chars": 4,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch02_01_055.wav",
+    "ground_truth": "1199对吗",
+    "raw_text": "幺幺九九的。",
+    "final_text": "1199 的。",
+    "raw_cer": 1.0,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_674.wav",
+    "ground_truth": "单发飞行",
+    "raw_text": "单发飞行。",
+    "final_text": "单发飞行。",
+    "raw_cer": 0.25,
+    "final_cer": 0.25,
+    "chars": 4,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch02_01_033.wav",
+    "ground_truth": "好的",
+    "raw_text": "好了。",
+    "final_text": "好了。",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 2,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_166.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "四栋幺八明白。",
+    "final_text": "4 栋 18 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_103.wav",
+    "ground_truth": "4018标高1389米工作正常与泰山联系好请求脱波",
+    "raw_text": "四幺八标高幺三八九米工作正常，与泰山联系好，请求托播。",
+    "final_text": "418 标高 1389 工作正常，与泰山联系好，请求托播。",
+    "raw_cer": 0.52,
+    "final_cer": 0.28,
+    "chars": 25,
+    "errors": 7
+  },
+  {
+    "audio_file": "ch03_01_547.wav",
+    "ground_truth": "301可以开车",
+    "raw_text": "三栋幺可以开车。",
+    "final_text": "3 栋 1 可以开车。",
+    "raw_cer": 0.5714285714285714,
+    "final_cer": 0.2857142857142857,
+    "chars": 7,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch01_01_047.wav",
+    "ground_truth": "好的明白",
+    "raw_text": "好了，拜拜嗯。",
+    "final_text": "好了，拜拜嗯。",
+    "raw_cer": 1.5,
+    "final_cer": 1.5,
+    "chars": 4,
+    "errors": 6
+  },
+  {
+    "audio_file": "ch02_01_023.wav",
+    "ground_truth": "高度2,100渭南继续下降",
+    "raw_text": "天夜未来我谢谢大家。",
+    "final_text": "天夜未来我谢谢大家。",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 13,
+    "errors": 13
+  },
+  {
+    "audio_file": "ch03_01_591.wav",
+    "ground_truth": "301航线天气怎么样",
+    "raw_text": "三栋幺航线天气怎么样？",
+    "final_text": "3 栋 1 航线天气怎么样？",
+    "raw_cer": 0.4,
+    "final_cer": 0.2,
+    "chars": 10,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_066.wav",
+    "ground_truth": "4018切台",
+    "raw_text": "四毛八切台。",
+    "final_text": "4 毛 8 切台。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.5,
+    "chars": 6,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_461.wav",
+    "ground_truth": "场压317应答机3107",
+    "raw_text": "厂家三幺管应答机三幺洞管。",
+    "final_text": "厂家 31 管应答机 310 管。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.4166666666666667,
+    "chars": 12,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_240.wav",
+    "ground_truth": "保持场高900加入左起落航线三边",
+    "raw_text": "保持长高九百，加入左起落行线三边。",
+    "final_text": "保持长高 9 百，加入左起落行线 3 边。",
+    "raw_cer": 0.375,
+    "final_cer": 0.375,
+    "chars": 16,
+    "errors": 6
+  },
+  {
+    "audio_file": "ch03_01_503.wav",
+    "ground_truth": "起落架好着陆",
+    "raw_text": "起落架好着陆。",
+    "final_text": "起落架好着陆。",
+    "raw_cer": 0.16666666666666666,
+    "final_cer": 0.16666666666666666,
+    "chars": 6,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch03_01_513.wav",
+    "ground_truth": "收到301发现目标开始工作",
+    "raw_text": "收到咱们要发现目标，开始工作。",
+    "final_text": "收到咱们要发现目标，开始工作。",
+    "raw_cer": 0.38461538461538464,
+    "final_cer": 0.38461538461538464,
+    "chars": 13,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_170.wav",
+    "ground_truth": "长江4018请求起飞",
+    "raw_text": "长江四栋幺八请求起飞。",
+    "final_text": "长江 4 栋 18 请求起飞。",
+    "raw_cer": 0.5,
+    "final_cer": 0.2,
+    "chars": 10,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_435.wav",
+    "ground_truth": "02右转",
+    "raw_text": "动量右转。",
+    "final_text": "动量右转。",
+    "raw_cer": 0.75,
+    "final_cer": 0.75,
+    "chars": 4,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch02_01_032.wav",
+    "ground_truth": "云底高有个200两吧",
+    "raw_text": "该有个呃，两百两吧。",
+    "final_text": "该有个呃，2 百 2 吧。",
+    "raw_cer": 0.8,
+    "final_cer": 0.9,
+    "chars": 10,
+    "errors": 9
+  },
+  {
+    "audio_file": "ch03_01_257.wav",
+    "ground_truth": "4018可以脱波再见",
+    "raw_text": "四六幺八可以脱播再见。",
+    "final_text": "4618 可以脱播再见。",
+    "raw_cer": 0.6,
+    "final_cer": 0.3,
+    "chars": 10,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch02_01_079.wav",
+    "ground_truth": "哎谢谢了",
+    "raw_text": "还得学校。",
+    "final_text": "还得学校。",
+    "raw_cer": 1.25,
+    "final_cer": 1.25,
+    "chars": 4,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_419.wav",
+    "ground_truth": "301",
+    "raw_text": "三六幺。",
+    "final_text": "361。",
+    "raw_cer": 1.3333333333333333,
+    "final_cer": 0.6666666666666666,
+    "chars": 3,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_340.wav",
+    "ground_truth": "301对正下降",
+    "raw_text": "三栋幺对症下降。",
+    "final_text": "3 栋 1 对症下降。",
+    "raw_cer": 0.7142857142857143,
+    "final_cer": 0.42857142857142855,
+    "chars": 7,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_617.wav",
+    "ground_truth": "请求航路预报",
+    "raw_text": "请求航路预报。",
+    "final_text": "请求航路预报。",
+    "raw_cer": 0.16666666666666666,
+    "final_cer": 0.16666666666666666,
+    "chars": 6,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch01_01_045.wav",
+    "ground_truth": "啊联系119.6啊",
+    "raw_text": "啊，连系幺幺九点六啊。",
+    "final_text": "啊，连系 119.6 啊。",
+    "raw_cer": 0.8888888888888888,
+    "final_cer": 0.3333333333333333,
+    "chars": 9,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_140.wav",
+    "ground_truth": "128米云量5个",
+    "raw_text": "一百二十八米云量五个。",
+    "final_text": "1 百 2 十 8 云量 5 个。",
+    "raw_cer": 0.875,
+    "final_cer": 0.5,
+    "chars": 8,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_488.wav",
+    "ground_truth": "301请示上升到高度12",
+    "raw_text": "三栋幺寝室上升到高度幺两。",
+    "final_text": "3 栋 1 寝室上升到高度 12。",
+    "raw_cer": 0.6666666666666666,
+    "final_cer": 0.3333333333333333,
+    "chars": 12,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_222.wav",
+    "ground_truth": "4018",
+    "raw_text": "四六幺八。",
+    "final_text": "4618。",
+    "raw_cer": 1.25,
+    "final_cer": 0.5,
+    "chars": 4,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_237.wav",
+    "ground_truth": "长江4018",
+    "raw_text": "长江四栋幺八。",
+    "final_text": "长江 4 栋 18。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch02_01_051.wav",
+    "ground_truth": "呃起飞方向不变由西向东起飞以后呃",
+    "raw_text": "呃，起飞方向不变，由戏向东。起飞以后。",
+    "final_text": "呃，起飞方向不变，由戏向东。起飞以后。",
+    "raw_cer": 0.3125,
+    "final_cer": 0.3125,
+    "chars": 16,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_259.wav",
+    "ground_truth": "301声音好",
+    "raw_text": "三栋幺声音好。",
+    "final_text": "3 栋 1 声音好。",
+    "raw_cer": 0.6666666666666666,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch02_01_046.wav",
+    "ground_truth": "那个下一站已经放飞了",
+    "raw_text": "这个加油站已经放飞了。",
+    "final_text": "这个加油站已经放飞了。",
+    "raw_cer": 0.4,
+    "final_cer": 0.4,
+    "chars": 10,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch04_01_007.wav",
+    "ground_truth": "3-5米着陆方向由西向东",
+    "raw_text": "三到五米左路方向有些效。",
+    "final_text": "3 到 5 左路方向有些效。",
+    "raw_cer": 0.75,
+    "final_cer": 0.6666666666666666,
+    "chars": 12,
+    "errors": 8
+  },
+  {
+    "audio_file": "ch03_01_214.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "四栋幺八明白。",
+    "final_text": "4 栋 18 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_090.wav",
+    "ground_truth": "4018保持场高156米",
+    "raw_text": "四栋幺八保持敞高幺。五六米。",
+    "final_text": "4 栋 18 保持敞高 1。56。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 12,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_029.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "四栋幺八明白。",
+    "final_text": "4 栋 18 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_660.wav",
+    "ground_truth": "中断起飞",
+    "raw_text": "中断起飞。",
+    "final_text": "中断起飞。",
+    "raw_cer": 0.25,
+    "final_cer": 0.25,
+    "chars": 4,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch03_01_218.wav",
+    "ground_truth": "报告高度位置",
+    "raw_text": "爸爸包的位置。",
+    "final_text": "爸爸包的位置。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.8333333333333334,
+    "chars": 6,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch04_01_001.wav",
+    "ground_truth": "好的本场场压",
+    "raw_text": "我不能朋友。",
+    "final_text": "我不能朋友。",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 6,
+    "errors": 6
+  },
+  {
+    "audio_file": "ch03_01_584.wav",
+    "ground_truth": "能见度几公里",
+    "raw_text": "能见度几公里。",
+    "final_text": "能见度几公里。",
+    "raw_cer": 0.16666666666666666,
+    "final_cer": 0.16666666666666666,
+    "chars": 6,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch03_01_033.wav",
+    "ground_truth": "4018放起落架三转弯",
+    "raw_text": "是吗吧，放起泡架三转弯。",
+    "final_text": "是吗吧，放起泡架 3 转弯。",
+    "raw_cer": 0.5454545454545454,
+    "final_cer": 0.6363636363636364,
+    "chars": 11,
+    "errors": 7
+  },
+  {
+    "audio_file": "ch03_01_647.wav",
+    "ground_truth": "放平舵上左舵",
+    "raw_text": "放平舵上左舵。",
+    "final_text": "放平舵上左舵。",
+    "raw_cer": 0.16666666666666666,
+    "final_cer": 0.16666666666666666,
+    "chars": 6,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch01_01_007.wav",
+    "ground_truth": "2号声音好",
+    "raw_text": "大哥。",
+    "final_text": "大哥。",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 5,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_154.wav",
+    "ground_truth": "长江4018起落架放好请求着陆",
+    "raw_text": "长江四栋幺八起落架放好，请求着陆。",
+    "final_text": "长江 4 栋 18 起落架放好，请求着陆。",
+    "raw_cer": 0.4,
+    "final_cer": 0.2,
+    "chars": 15,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_473.wav",
+    "ground_truth": "800800",
+    "raw_text": "八百八百。",
+    "final_text": "8 百 8 百。",
+    "raw_cer": 1.0,
+    "final_cer": 0.6666666666666666,
+    "chars": 6,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_329.wav",
+    "ground_truth": "301FAF点",
+    "raw_text": "三栋幺FAF点。",
+    "final_text": "3 栋 1FAF点。",
+    "raw_cer": 0.5714285714285714,
+    "final_cer": 0.2857142857142857,
+    "chars": 7,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_095.wav",
+    "ground_truth": "泰山4018",
+    "raw_text": "泰山四零二八。",
+    "final_text": "泰山 4028。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_299.wav",
+    "ground_truth": "高度3,500以下活动上方4,000有通过",
+    "raw_text": "高度三千五以下活动上方四千有通过。",
+    "final_text": "高度 3 千 5 以下活动上方 4 千有通过。",
+    "raw_cer": 0.5238095238095238,
+    "final_cer": 0.38095238095238093,
+    "chars": 21,
+    "errors": 8
+  },
+  {
+    "audio_file": "ch04_01_004.wav",
+    "ground_truth": "地面能见度大于两公里",
+    "raw_text": "这个能见度两公里的。",
+    "final_text": "这个能见度 2 公里的。",
+    "raw_cer": 0.6,
+    "final_cer": 0.7,
+    "chars": 10,
+    "errors": 7
+  },
+  {
+    "audio_file": "ch03_01_588.wav",
+    "ground_truth": "云低高3,000",
+    "raw_text": "云低高三千。",
+    "final_text": "云低高 3 千。",
+    "raw_cer": 0.625,
+    "final_cer": 0.5,
+    "chars": 8,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch03_01_535.wav",
+    "ground_truth": "301近台侧方",
+    "raw_text": "三六幺进台侧方。",
+    "final_text": "361 进台侧方。",
+    "raw_cer": 0.7142857142857143,
+    "final_cer": 0.42857142857142855,
+    "chars": 7,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_603.wav",
+    "ground_truth": "云底1,800云顶3,600能见度大于10公里",
+    "raw_text": "云底一千八云顶三千六，能见度大约十公里。",
+    "final_text": "云底 1 千 8 云顶 3 千 6，能见度大约十公里。",
+    "raw_cer": 0.6086956521739131,
+    "final_cer": 0.43478260869565216,
+    "chars": 23,
+    "errors": 10
+  },
+  {
+    "audio_file": "ch03_01_073.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "四万八明白。",
+    "final_text": "4 万 8 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.5,
+    "chars": 6,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_444.wav",
+    "ground_truth": "301进入本场空域",
+    "raw_text": "三栋幺进入本场空域。",
+    "final_text": "3 栋 1 进入本场空域。",
+    "raw_cer": 0.4444444444444444,
+    "final_cer": 0.2222222222222222,
+    "chars": 9,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch01_01_028.wav",
+    "ground_truth": "好的继续下降高度",
+    "raw_text": "好的，继续。现在高度。",
+    "final_text": "好的，继续。现在高度。",
+    "raw_cer": 0.625,
+    "final_cer": 0.625,
+    "chars": 8,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_486.wav",
+    "ground_truth": "301高度800改平增速340",
+    "raw_text": "三栋幺高度八百，改平，增速三四零。",
+    "final_text": "3 栋 1 高度 8 百，改平，增速 340。",
+    "raw_cer": 0.7333333333333333,
+    "final_cer": 0.3333333333333333,
+    "chars": 15,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_387.wav",
+    "ground_truth": "301请示进跑道",
+    "raw_text": "三六幺请示进跑道。",
+    "final_text": "361 请示进跑道。",
+    "raw_cer": 0.5,
+    "final_cer": 0.25,
+    "chars": 8,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_108.wav",
+    "ground_truth": "工作正常预计进入时刻11212",
+    "raw_text": "工作正常，预计进入时刻幺幺两幺两。",
+    "final_text": "工作正常，预计进入时刻 11212。",
+    "raw_cer": 0.4666666666666667,
+    "final_cer": 0.13333333333333333,
+    "chars": 15,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_093.wav",
+    "ground_truth": "泰山4018叫",
+    "raw_text": "泰山四栋幺八校。",
+    "final_text": "泰山 4 栋 18 校。",
+    "raw_cer": 0.8571428571428571,
+    "final_cer": 0.42857142857142855,
+    "chars": 7,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch02_01_047.wav",
+    "ground_truth": "听到回答0017",
+    "raw_text": "叫我们要管。",
+    "final_text": "叫我们要管。",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 8,
+    "errors": 8
+  },
+  {
+    "audio_file": "ch01_01_031.wav",
+    "ground_truth": "4151三转弯",
+    "raw_text": "",
+    "final_text": "",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 7,
+    "errors": 7
+  },
+  {
+    "audio_file": "ch01_01_033.wav",
+    "ground_truth": "现在我要这个",
+    "raw_text": "",
+    "final_text": "",
+    "raw_cer": 1.0,
+    "final_cer": 1.0,
+    "chars": 6,
+    "errors": 6
+  },
+  {
+    "audio_file": "ch03_01_302.wav",
+    "ground_truth": "3011号完成动作",
+    "raw_text": "三栋幺一号完成动作。",
+    "final_text": "3 栋 11 号完成动作。",
+    "raw_cer": 0.5555555555555556,
+    "final_cer": 0.2222222222222222,
+    "chars": 9,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_474.wav",
+    "ground_truth": "301请示15号进跑道",
+    "raw_text": "三栋幺请示十五号进跑道。",
+    "final_text": "3 栋 1 请示十 5 号进跑道。",
+    "raw_cer": 0.5454545454545454,
+    "final_cer": 0.2727272727272727,
+    "chars": 11,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch02_01_041.wav",
+    "ground_truth": "好的看到你了检查好可以落地",
+    "raw_text": "好了，看到你了，想让我开个币。",
+    "final_text": "好了，看到你了，想让我开个币。",
+    "raw_cer": 0.7692307692307693,
+    "final_cer": 0.7692307692307693,
+    "chars": 13,
+    "errors": 10
+  },
+  {
+    "audio_file": "ch03_01_428.wav",
+    "ground_truth": "呃02右转出航",
+    "raw_text": "呃，动梁右转，出航。",
+    "final_text": "呃，动梁右转，出航。",
+    "raw_cer": 0.7142857142857143,
+    "final_cer": 0.7142857142857143,
+    "chars": 7,
+    "errors": 5
+  },
+  {
+    "audio_file": "ch03_01_628.wav",
+    "ground_truth": "加速滑行",
+    "raw_text": "加速滑行。",
+    "final_text": "加速滑行。",
+    "raw_cer": 0.25,
+    "final_cer": 0.25,
+    "chars": 4,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch03_01_562.wav",
+    "ground_truth": "301可以上2,700",
+    "raw_text": "三六幺可以上两千七。",
+    "final_text": "361 可以上 2 千 7。",
+    "raw_cer": 0.7272727272727273,
+    "final_cer": 0.36363636363636365,
+    "chars": 11,
+    "errors": 4
+  },
+  {
+    "audio_file": "ch02_01_056.wav",
+    "ground_truth": "对的前面有个航向渭南上到场高700听我指挥继续上升联系频率1199",
+    "raw_text": "对啊，其实有个航向位能，上到创高，七百通货指数继续上升。关于研究者。",
+    "final_text": "对啊，其实有个航向位能，上到创高，7 百通货指数继续上升。关于研究者。",
+    "raw_cer": 0.6666666666666666,
+    "final_cer": 0.6666666666666666,
+    "chars": 33,
+    "errors": 22
+  },
+  {
+    "audio_file": "ch03_01_624.wav",
+    "ground_truth": "4018起飞15分计计划航线",
+    "raw_text": "四栋幺八起飞十五分计计划航线。",
+    "final_text": "4 栋 18 起飞十 5 分计计划航线。",
+    "raw_cer": 0.5,
+    "final_cer": 0.21428571428571427,
+    "chars": 14,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_012.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "四栋幺八明白。",
+    "final_text": "4 栋 18 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.3333333333333333,
+    "chars": 6,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch03_01_098.wav",
+    "ground_truth": "4018保持标高1389米",
+    "raw_text": "四零幺八保持标高幺三八九米。",
+    "final_text": "4018 保持标高 1389。",
+    "raw_cer": 0.6923076923076923,
+    "final_cer": 0.07692307692307693,
+    "chars": 13,
+    "errors": 1
+  },
+  {
+    "audio_file": "ch03_01_120.wav",
+    "ground_truth": "4018在整点前通过P322",
+    "raw_text": "四栋幺八在整点前通过p三二二。",
+    "final_text": "4 栋 18 在整点前通过p322。",
+    "raw_cer": 0.6428571428571429,
+    "final_cer": 0.21428571428571427,
+    "chars": 14,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_151.wav",
+    "ground_truth": "4018明白",
+    "raw_text": "是中幺八明白。",
+    "final_text": "是中 18 明白。",
+    "raw_cer": 0.8333333333333334,
+    "final_cer": 0.5,
+    "chars": 6,
+    "errors": 3
+  },
+  {
+    "audio_file": "ch03_01_629.wav",
+    "ground_truth": "抬前轮",
+    "raw_text": "拍前轮。",
+    "final_text": "拍前轮。",
+    "raw_cer": 0.6666666666666666,
+    "final_cer": 0.6666666666666666,
+    "chars": 3,
+    "errors": 2
+  },
+  {
+    "audio_file": "ch01_01_026.wav",
+    "ground_truth": "好的4151你三边报一下",
+    "raw_text": "我要你三便报一下。",
+    "final_text": "我要你 3 便报 1 下。",
+    "raw_cer": 0.6666666666666666,
+    "final_cer": 0.8333333333333334,
+    "chars": 12,
+    "errors": 10
+  },
+  {
+    "audio_file": "ch02_01_066.wav",
+    "ground_truth": "啊4017场高700报",
+    "raw_text": "快场合去打到。",
+    "final_text": "快场合去打到。",
+    "raw_cer": 0.9090909090909091,
+    "final_cer": 0.9090909090909091,
+    "chars": 11,
+    "errors": 10
+  },
+  {
+    "audio_file": "ch03_01_524.wav",
+    "ground_truth": "301可以进跑道",
+    "raw_text": "三栋幺可以进跑道。",
+    "final_text": "3 栋 1 可以进跑道。",
+    "raw_cer": 0.5,
+    "final_cer": 0.25,
+    "chars": 8,
+    "errors": 2
+  }
+]

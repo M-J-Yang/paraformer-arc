@@ -1,0 +1,334 @@
+[
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_281.wav",
+    "gt": "301二转弯改出"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_251.wav",
+    "gt": "4018明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_030.wav",
+    "gt": "好三转弯报"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_450.wav",
+    "gt": "301可以右转下降24"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_406.wav",
+    "gt": "请示下54"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_025.wav",
+    "gt": "起飞"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_630.wav",
+    "gt": "两点姿势大"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_543.wav",
+    "gt": "呃3号道脱301三号道脱离301滑行注意观察301明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_069.wav",
+    "gt": "40183转弯"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_317.wav",
+    "gt": "301起始点报"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_232.wav",
+    "gt": "4018可以下降高度"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_024.wav",
+    "gt": "可以你下到场高700本场以东11公里下到场高700"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_539.wav",
+    "gt": "三洞幺过台02左着陆"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_649.wav",
+    "gt": "中断起飞注意障碍物"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_290.wav",
+    "gt": "301襟翼全放"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_203.wav",
+    "gt": "标高7,200有交叉飞行保持标高7,200在史各庄等待"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_237.wav",
+    "gt": "长江4018"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_480.wav",
+    "gt": "301准备左转"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_184.wav",
+    "gt": "呃听指令上升3呃标压3107米报"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_040.wav",
+    "gt": "可以落地落地可以联系"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch06\\ch06_01\\ch06_01_001.wav",
+    "gt": "17进跑道"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_657.wav",
+    "gt": "立即跳伞"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_282.wav",
+    "gt": "301明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_586.wav",
+    "gt": "云量有几个5-6个云量"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_197.wav",
+    "gt": "4018明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_003.wav",
+    "gt": "5号明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_264.wav",
+    "gt": "301明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_565.wav",
+    "gt": "3栋1P206P20740分"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_156.wav",
+    "gt": "4018明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_081.wav",
+    "gt": "4号脱离"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_592.wav",
+    "gt": "航线第一边有降雨"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_407.wav",
+    "gt": "301可以下54"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch06\\ch06_01\\ch06_01_002.wav",
+    "gt": "可以进跑道"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_547.wav",
+    "gt": "301可以开车"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_019.wav",
+    "gt": "呃好的"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_222.wav",
+    "gt": "4018"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_364.wav",
+    "gt": "301一转弯"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_082.wav",
+    "gt": "左转脱离4号停机位注意地面引导"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_001.wav",
+    "gt": "好的本场场压"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_662.wav",
+    "gt": "试试空中开车"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_302.wav",
+    "gt": "3011号完成动作"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_576.wav",
+    "gt": "301可以三转弯301明白301五边向台"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch04\\ch04_01\\ch04_01_007.wav",
+    "gt": "3-5米着陆方向由西向东"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_479.wav",
+    "gt": "301走"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_220.wav",
+    "gt": "4018标高89能见飞行工作正常"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_017.wav",
+    "gt": "呃不太能见"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_085.wav",
+    "gt": "左转脱离"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_579.wav",
+    "gt": "301明白301三号道脱离"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_198.wav",
+    "gt": "飞跃P256报"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_030.wav",
+    "gt": "呃本场没有活动"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_486.wav",
+    "gt": "301高度800改平增速340"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_135.wav",
+    "gt": "云量5个北风5米每秒场面温度20度"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_079.wav",
+    "gt": "4018明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_029.wav",
+    "gt": "好的"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch04\\ch04_01\\ch04_01_003.wav",
+    "gt": "呃50度风3-5米"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_124.wav",
+    "gt": "4018"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_034.wav",
+    "gt": "现在地面230多风3米"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_196.wav",
+    "gt": "飞跃P256报"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_541.wav",
+    "gt": "301明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_061.wav",
+    "gt": "右转滑出2号道进"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_145.wav",
+    "gt": "跑道07"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch07\\ch07_01\\ch07_01_001.wav",
+    "gt": "17"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_316.wav",
+    "gt": "301进入点"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_293.wav",
+    "gt": "301工作好"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_062.wav",
+    "gt": "4018明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_349.wav",
+    "gt": "301"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_306.wav",
+    "gt": "301高度07加入三转弯"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_595.wav",
+    "gt": "301起落架放好"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch02\\ch02_01\\ch02_01_072.wav",
+    "gt": "好的"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_481.wav",
+    "gt": "301左转"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_508.wav",
+    "gt": "800风向317"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_383.wav",
+    "gt": "301检查好滑出"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_581.wav",
+    "gt": "301明白"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_189.wav",
+    "gt": "泰山4018"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_230.wav",
+    "gt": "4018明白场压756跑道07"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_510.wav",
+    "gt": "场压317"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_024.wav",
+    "gt": "落地以后起飞以后直接联系民航进近频率119119.6就可以了"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_088.wav",
+    "gt": "长江4018请求起飞"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_607.wav",
+    "gt": "301航线上严重颠簸"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_422.wav",
+    "gt": "301远台侧方下600"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch01\\ch01_01\\ch01_01_011.wav",
+    "gt": "啊4151回答1号"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_371.wav",
+    "gt": "02右着陆"
+  },
+  {
+    "audio": "D:\\NPU_works\\ATC\\ATC-paraformer\\chinese_ATC_formatted\\WAVdata\\ch03\\ch03_01\\ch03_01_151.wav",
+    "gt": "4018明白"
+  }
+]

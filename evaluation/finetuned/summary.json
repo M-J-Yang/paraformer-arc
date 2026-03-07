@@ -1,0 +1,16 @@
+{
+  "total_samples": 83,
+  "valid_results": 83,
+  "total_chars": 757,
+  "total_errors": 792,
+  "global_cer": 1.0462,
+  "avg_cer": 1.0509,
+  "accuracy": -0.0509,
+  "cer_distribution": {
+    "完美(=0)": 0,
+    "优秀(≤5%)": 0,
+    "良好(≤10%)": 0,
+    "一般(≤20%)": 0,
+    "较差(>20%)": 83
+  }
+}

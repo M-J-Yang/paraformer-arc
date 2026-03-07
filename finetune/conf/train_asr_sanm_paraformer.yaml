@@ -96,7 +96,7 @@ specaug_conf:
 
 # ── 训练配置（针对 ATC 小数据集调整）───────────────────────────────────────
 train_conf:
-    accum_grad: 4          # 梯度累积，等效 batch_size×4，弥补显存限制
+    accum_grad: 1          # 32G 显存充足，无需梯度累积
     grad_clip: 5.0
     max_epoch: 30
     keep_nbest_models: 5
@@ -121,16 +121,18 @@ scheduler_conf:
     warmup_steps: 500      # 数据少，warmup 步数相应减小
 
 # ── 数据集────────────────────────────────────────────────────────────────────
-dataset: AudioDataset
+# SeacoParaformer.forward() 需要 hotword_lengths，必须用 AudioDatasetHotword
+dataset: AudioDatasetHotword
 dataset_conf:
+    seaco_id: 8377             # <soc> token ID（与 seaco 预训练 config 一致）
     index_ds: IndexDSJsonl
     batch_sampler: EspnetStyleBatchSampler
     batch_type: example
-    batch_size: 2          # 50 层模型显存占用大，batch_size 减小
+    batch_size: 16             # 32G 显存，225M 参数模型，batch_size 可开大
     max_token_length: 2048
     buffer_size: 500
     shuffle: true
-    num_workers: 2
+    num_workers: 4
 
 # ── tokenizer（对齐 seaco）──────────────────────────────────────────────────
 tokenizer: CharTokenizer

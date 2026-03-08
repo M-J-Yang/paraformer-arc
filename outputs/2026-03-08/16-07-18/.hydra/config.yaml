@@ -1,0 +1,7 @@
+scp_file_list:
+- D:/NPU_works/ATC/ATC-paraformer/FunASR/data/list/train_wav.scp
+- D:/NPU_works/ATC/ATC-paraformer/FunASR/data/list/train_text.txt
+data_type_list:
+- source
+- target
+jsonl_file_out: D:/NPU_works/ATC/ATC-paraformer/FunASR/data/list/train.jsonl

@@ -1,0 +1,30 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+*.wav
+*.pt
+*.onnx
+*.ckpt
+
+finetune/output_paraformer_AZ/
+finetune/output_paraformer_AZ_noctc/
+finetune/output_paraformer_full_bs16/
+finetune/output_paraformer_safe/
+
+outputs/
+tensorboard/
+finetune/output_sanm/
+finetune/speech_seaco_paraformer_large_asr_nat-zh-cn-16k-common-vocab8404-pytorch/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local model/cache artifacts
+.cache/
+**/.cache/
+modelscope_models/
+**/modelscope_models/

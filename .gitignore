@@ -1,0 +1,20 @@
+# Local large artifacts
+models/
+audios/
+inference/infer_outputs/
+inference/infer_outputs_timestamp_predictor/
+*.pt
+*.onnx
+*.ckpt
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Common cache
+.cache/
+**/.cache/
+modelscope_models/
+**/modelscope_models/
+.git/

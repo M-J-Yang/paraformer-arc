@@ -25,3 +25,11 @@ __pycache__/
 modelscope_models/
 **/modelscope_models/
 .git/
+# model files
+model_store/
+*.pt
+*.onnx
+*.bin
+# build
+dist/
+build/

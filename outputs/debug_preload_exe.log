@@ -1,0 +1,149 @@
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 50, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 113, in _ensure_service
+    service = RecognitionService(
+  File "engines\recognition_service.py", line 31, in __init__
+    self.asr_engine = ASREngine(
+  File "engines\asr_engine.py", line 19, in __init__
+    self.model = AutoModel(
+  File "funasr\auto\auto_model.py", line 135, in __init__
+  File "funasr\auto\auto_model.py", line 245, in build_model
+TypeError: 'NoneType' object is not callable
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 50, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 113, in _ensure_service
+    service = RecognitionService(
+  File "engines\recognition_service.py", line 31, in __init__
+    self.asr_engine = ASREngine(
+  File "engines\asr_engine.py", line 19, in __init__
+    self.model = AutoModel(
+  File "funasr\auto\auto_model.py", line 135, in __init__
+  File "funasr\auto\auto_model.py", line 245, in build_model
+  File "funasr\tokenizer\char_tokenizer.py", line 42, in __init__
+NameError: name 'load_seg_dict' is not defined
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 51, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 90, in _ensure_service
+    bootstrap_funasr_runtime()
+  File "utils\funasr_bootstrap.py", line 20, in bootstrap_funasr_runtime
+    importlib.import_module(module_name)
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "funasr\tokenizer\char_tokenizer.py", line 13, in <module>
+  File "funasr\register.py", line 73, in decorator
+  File "inspect.py", line 1121, in getsourcelines
+  File "inspect.py", line 958, in findsource
+OSError: could not get source code
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 51, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 90, in _ensure_service
+    bootstrap_funasr_runtime()
+  File "utils\funasr_bootstrap.py", line 20, in bootstrap_funasr_runtime
+    ]
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "funasr\tokenizer\char_tokenizer.py", line 13, in <module>
+  File "funasr\register.py", line 73, in decorator
+  File "inspect.py", line 1121, in getsourcelines
+  File "inspect.py", line 958, in findsource
+OSError: could not get source code
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 51, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 90, in _ensure_service
+    bootstrap_funasr_runtime()
+  File "utils\funasr_bootstrap.py", line 23, in bootstrap_funasr_runtime
+    importlib.import_module(module_name)
+  File "importlib\__init__.py", line 126, in import_module
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "funasr\models\paraformer\model.py", line 20, in <module>
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "funasr\models\paraformer\cif_predictor.py", line 500, in <module>
+  File "torch\jit\_script.py", line 1490, in script
+    ret = _script_impl(
+  File "torch\jit\_script.py", line 1247, in _script_impl
+    ast = get_jit_def(obj, obj.__name__)
+  File "torch\jit\frontend.py", line 336, in get_jit_def
+    parsed_def = parse_def(fn) if not isinstance(fn, _ParsedDef) else fn
+  File "torch\_sources.py", line 129, in parse_def
+    raise RuntimeError(
+RuntimeError: Expected a single top-level function: C:\Users\test01\AppData\Local\Temp\_MEI74962\funasr\models\paraformer\cif_predictor.py:0
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 51, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 115, in _ensure_service
+    service = RecognitionService(
+  File "engines\recognition_service.py", line 31, in __init__
+    self.asr_engine = ASREngine(
+  File "engines\asr_engine.py", line 19, in __init__
+    self.model = AutoModel(
+  File "funasr\auto\auto_model.py", line 135, in __init__
+  File "funasr\auto\auto_model.py", line 281, in build_model
+AssertionError: Paraformer is not registered
+ATC_DEBUG_PRELOAD=1
+Traceback (most recent call last):
+  File "app.py", line 53, in run_debug_preload
+    window._preload_models()
+  File "ui\main_window.py", line 498, in _preload_models
+    self.controller.preload_models_with_callbacks(
+  File "controllers\recognition_controller.py", line 51, in preload_models_with_callbacks
+    self._ensure_service(
+  File "controllers\recognition_controller.py", line 115, in _ensure_service
+    service = RecognitionService(
+  File "engines\recognition_service.py", line 31, in __init__
+    self.asr_engine = ASREngine(
+  File "engines\asr_engine.py", line 19, in __init__
+    self.model = AutoModel(
+  File "funasr\auto\auto_model.py", line 135, in __init__
+  File "funasr\auto\auto_model.py", line 285, in build_model
+  File "funasr\models\paraformer\model.py", line 80, in __init__
+TypeError: 'NoneType' object is not callable

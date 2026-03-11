@@ -1,0 +1,174 @@
+{
+  "audio": {
+    "path": "D:\\NPU_works\\ATC\\ATC_v0_publish\\audios\\飞入机场.MP3",
+    "name": "飞入机场.MP3",
+    "stem": "飞入机场",
+    "suffix": ".mp3"
+  },
+  "device": "cuda:0",
+  "created_at": "2026-03-11T08:42:36.632953+00:00",
+  "text": "现在还里高17。\n现在回到速0右拐信号已好。\n高03 2.\n没有。\n一下统计回来距离应该还要二十八公里。\n好的，你现在可以继续下到我场高12.\n到了。\n112,空位高加快。",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "start_ms": 0,
+      "end_ms": 2430,
+      "text": "现在还里高17。"
+    },
+    {
+      "index": 2,
+      "start_ms": 3060,
+      "end_ms": 5090,
+      "text": "现在回到速0右拐信号已好。"
+    },
+    {
+      "index": 3,
+      "start_ms": 5400,
+      "end_ms": 6180,
+      "text": "高03 2."
+    },
+    {
+      "index": 4,
+      "start_ms": 6490,
+      "end_ms": 7240,
+      "text": "没有。"
+    },
+    {
+      "index": 5,
+      "start_ms": 7570,
+      "end_ms": 10660,
+      "text": "一下统计回来距离应该还要二十八公里。"
+    },
+    {
+      "index": 6,
+      "start_ms": 12430,
+      "end_ms": 16490,
+      "text": "好的，你现在可以继续下到我场高12."
+    },
+    {
+      "index": 7,
+      "start_ms": 17020,
+      "end_ms": 17920,
+      "text": "到了。"
+    },
+    {
+      "index": 8,
+      "start_ms": 18200,
+      "end_ms": 20510,
+      "text": "112,空位高加快。"
+    }
+  ],
+  "model_paths": {
+    "asr": "D:\\NPU_works\\ATC\\ATC_v0_publish\\model_store\\paraformer_v1\\speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch",
+    "vad": "D:\\NPU_works\\ATC\\ATC_v0_publish\\model_store\\speech_fsmn_vad_zh-cn-16k-common-pytorch",
+    "punc": "D:\\NPU_works\\ATC\\ATC_v0_publish\\model_store\\punc_ct-transformer_cn-en-common-vocab471067-large"
+  },
+  "raw_result": {
+    "vad_enabled": true,
+    "punc_enabled": true,
+    "vad_segments": [
+      [
+        0,
+        2430
+      ],
+      [
+        3060,
+        5090
+      ],
+      [
+        5400,
+        6180
+      ],
+      [
+        6490,
+        7240
+      ],
+      [
+        7570,
+        10660
+      ],
+      [
+        12430,
+        16490
+      ],
+      [
+        17020,
+        17920
+      ],
+      [
+        18200,
+        20510
+      ]
+    ],
+    "segments": [
+      {
+        "segment_index": 1,
+        "start_ms": 0,
+        "end_ms": 2430,
+        "raw_text": "现在还里高摇拐",
+        "punctuated_text": "现在还里高摇拐。",
+        "text": "现在还里高17。"
+      },
+      {
+        "segment_index": 2,
+        "start_ms": 3060,
+        "end_ms": 5090,
+        "raw_text": "现在回到速0右拐信号已好",
+        "punctuated_text": "现在回到速0右拐信号已好。",
+        "text": "现在回到速0右拐信号已好。"
+      },
+      {
+        "segment_index": 3,
+        "start_ms": 5400,
+        "end_ms": 6180,
+        "raw_text": "高032",
+        "punctuated_text": "高03 2.",
+        "text": "高03 2."
+      },
+      {
+        "segment_index": 4,
+        "start_ms": 6490,
+        "end_ms": 7240,
+        "raw_text": "没有",
+        "punctuated_text": "没有。",
+        "text": "没有。"
+      },
+      {
+        "segment_index": 5,
+        "start_ms": 7570,
+        "end_ms": 10660,
+        "raw_text": "一下统计回来距离应该还要二十八公里",
+        "punctuated_text": "一下统计回来距离应该还要二十八公里。",
+        "text": "一下统计回来距离应该还要二十八公里。"
+      },
+      {
+        "segment_index": 6,
+        "start_ms": 12430,
+        "end_ms": 16490,
+        "raw_text": "好的你现在可以继续下到我场高12",
+        "punctuated_text": "好的，你现在可以继续下到我场高12.",
+        "text": "好的，你现在可以继续下到我场高12."
+      },
+      {
+        "segment_index": 7,
+        "start_ms": 17020,
+        "end_ms": 17920,
+        "raw_text": "到了",
+        "punctuated_text": "到了。",
+        "text": "到了。"
+      },
+      {
+        "segment_index": 8,
+        "start_ms": 18200,
+        "end_ms": 20510,
+        "raw_text": "112空位高加快",
+        "punctuated_text": "112,空位高加快。",
+        "text": "112,空位高加快。"
+      }
+    ],
+    "hotword_enabled": true,
+    "hotword_count": 300,
+    "text_rules_path": "D:\\NPU_works\\ATC\\ATC_v0_publish\\config\\atc_text_rules.json"
+  }
+}
